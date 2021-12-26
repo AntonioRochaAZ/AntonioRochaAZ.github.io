@@ -44,3 +44,13 @@ It's also supposed to serve as a bit like a portfolio, although it is still
 - `GitHub Repository <https://github.com/AntonioRochaAZ/ImageNet>`_
 - `Documentation <https://antoniorochaaz.github.io/ImageNet/>`_
 
+ProcessEngineering
+------------------
+
+Project for testing the implementation of different Process Engineering concepts.
+This includes Equation Ordering Algorithms for Sequential Modeling and simulation.
+It also serves as a dive into object oriented programming and dynamic definitions of functions.
+
+- `GitHub Repository <https://github.com/AntonioRochaAZ/ProcessEngineering>`_
+- `Documentation <https://antoniorochaaz.github.io/ProcessEngineering/>`_
+
