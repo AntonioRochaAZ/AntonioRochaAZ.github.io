@@ -24,8 +24,8 @@ Since then, I've worked on the subject on a few different projects:
 3. My undergraduate thesis on Predictive Emissions Monitoring System (PEMS), developing and comparing
    prediction accuracies for different types of neural networks (NNs, CNNs, RNNs) and hybrid models
    that integrate them.
-4. Currently working on Neural Networks for recognition of LaTeX symbols (`ImageNet <https://github.com/AntonioRochaAZ/ImageNet>`_).
-   The objective is to develop skills in advanced python, get used to using GitHub, explore CNN architecures,
+4. Currently working on Neural Networks for recognition of LaTeX symbols (`CNN Project <https://github.com/AntonioRochaAZ/CNN-Project>`_).
+   The objective is to develop skills in advanced python, get used to using GitHub, explore CNN architectures,
    and serve as portfolio (since other projects are private).
 
 You can find more about me in my `Linkedin page <https://www.linkedin.com/in/antonio-rocha-azevedo-9577b41a1/?locale=en_US>`_.
@@ -33,16 +33,16 @@ You can find more about me in my `Linkedin page <https://www.linkedin.com/in/ant
 My Public Projects
 ==================
 
-ImageNet
---------
+CNN Project
+-----------
 
-ImageNet is a personal project for developing skills in python and testing
+This is a personal project for developing skills in python and testing
 different Convolutional Neural Network (CNN) architectures for different tasks.
 It's also supposed to serve as a bit like a portfolio, although it is still
 *a work in progress*.
 
-- `GitHub Repository <https://github.com/AntonioRochaAZ/ImageNet>`_
-- `Documentation <https://antoniorochaaz.github.io/ImageNet/>`_
+- `GitHub Repository <https://github.com/AntonioRochaAZ/CNN-Project>`_
+- `Documentation <https://antoniorochaaz.github.io/CNN-Project/>`_
 
 ProcessEngineering
 ------------------
