@@ -61,9 +61,10 @@ Basic Optimization Framework
 Small project for relearning FORTRAN 90 and studying optimization
 concepts. This project is a generic framework over which simple
 optimization methods can be built upon and run.
+
 - `GitHub Repository
 <https://github.com/AntonioRochaAZ/Basic-Optimization-Framework---FORTRAN-90>`_
 - All available documentation is found in the repository's
-README.md and in code comments in the beginning of functions and
-subroutines as well as throughout the code, for the interested reader.
+  README.md and in code comments in the beginning of functions and
+  subroutines as well as throughout the code, for the interested reader.
 
