@@ -15,17 +15,11 @@ About me
 I'm a Brazilian/Portuguese Chemical Engineer from the Federal University of Rio de
 Janeiro (UFRJ), having done a double degree exchange at ESPCI - Paris. I've
 become interested in programming with Python and Deep Learning for engineering
-applications by the beginning of 2021. Since then, I've worked on the subject on a few different projects:
+applications by the beginning of 2021. Since then, I've worked on
+the subject on a few different projects:
 
 1. A project for the *Introduction to Deep Learining* class at ESPCI, developing
-   a CNN for microfluidic drop recognition and classification.
-
-.. figure:: _assets/drop_recognition.jpeg
-      :width: 300
-      :align: center
-      :alt: *An image of the project.*
-
-      *An image of the project.*
+   a CNN for microfluidic drop recognition and classification. Code not available.
 
 2. An internship on Battery Health estimation, using concepts of `Transfer Learning <https://en.wikipedia.org/wiki/Transfer_learning#:~:text=Transfer%20learning%20(TL)%20is%20a,when%20trying%20to%20recognize%20trucks.>`__
    for applying models trained for one type of battery to batteries of different
@@ -46,7 +40,9 @@ applications by the beginning of 2021. Since then, I've worked on the subject on
    and hybrid models that integrate them. The final report is publicly available
    (though it is written in portuguese) and `can be found here <http://hdl.handle.net/11422/17575>`__
    Some of the results were presented in the ESCAPE32 2022 conference, the
-   proceedings of `which can be found here <https://doi.org/10.1016/b978-0-323-95879-0.50232-0>`__
+   proceedings of `which can be found here
+   <https://doi.org/10.1016/b978-0-323-95879-0.50232-0>`__. Code
+   not available.
 
    .. figure:: _assets/modelohibrido.png
       :width: 300
@@ -60,7 +56,7 @@ applications by the beginning of 2021. Since then, I've worked on the subject on
    (`CNN Project <https://github.com/AntonioRochaAZ/CNN-Project>`__). Its
    objective was to develop skills in advanced python, get used to using GitHub,
    explore CNN architectures and serve as portfolio (since other projects may
-   be private).
+   be private). Code available below.
 
 .. figure:: _assets/drawingboard.png
     :width: 640
@@ -107,4 +103,15 @@ optimization methods can be built upon and run.
 - All available documentation is found in the repository's
   README.md and in code comments in the beginning of functions and
   subroutines as well as throughout the code, for the interested reader.
+
+C++ Game
+========
+
+Small project following the footsteps of `Let's make games' "How
+to make a game" tutorial
+<https://www.youtube.com/watch?v=QQzAHcojEKg&list=PLhfAbcv9cehhkG7ZQK0nfIGJC_C-wSLrx>`__
+as a means of learning a little bit of C++.
+
+- `GitHub Repository <https://github.com/AntonioRochaAZ/CPP-Game>`__
+- No documentation available (yet), although I try to extensively comment what I learn along the way in this repository.
 
