@@ -104,7 +104,7 @@ optimization methods can be built upon and run.
   <https://antoniorochaaz.github.io/Basic-Optimization-Framework---FORTRAN-90/>`__
 
 C++ Game
-========
+--------
 
 Small project following the footsteps of `Let's make games' "How
 to make a game" tutorial
