@@ -100,9 +100,8 @@ concepts. This project is a generic framework over which simple
 optimization methods can be built upon and run.
 
 - `GitHub Repository <https://github.com/AntonioRochaAZ/Basic-Optimization-Framework---FORTRAN-90>`__
-- All available documentation is found in the repository's
-  README.md and in code comments in the beginning of functions and
-  subroutines as well as throughout the code, for the interested reader.
+- `Documentation
+  <https://antoniorochaaz.github.io/Basic-Optimization-Framework---FORTRAN-90/>`__
 
 C++ Game
 ========
