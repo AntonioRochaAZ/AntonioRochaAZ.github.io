@@ -112,5 +112,5 @@ to make a game" tutorial
 as a means of learning a little bit of C++.
 
 - `GitHub Repository <https://github.com/AntonioRochaAZ/CPP-Game>`__
-- No documentation available (yet), although I try to extensively comment what I learn along the way in this repository.
+- `Documentation <https://antoniorochaaz.github.io/CPP-Game/>`__
 
